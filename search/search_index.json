@@ -2,13 +2,28 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to 5G NR Blog\n\n\nThis is a personal blog, as a tech note of 5G and LTE protocols.", 
+            "text": "Welcome to 5G NR Blog\n\n\nThis is a personal blog, as a tech note of 5G and LTE protocols.\n\n\n5G NR\n\n\n\n\nNSA\n\n\nSA\n\n\n\n\nNSA\n\n\n\n\nLTE and NR with EPC\n\n\nLTE and NR with 5GC\n\n\n\n\nSA\n\n\n\n\nSomething news here....\nTo be add......", 
             "title": "Introduction"
         }, 
         {
             "location": "/#welcome-to-5g-nr-blog", 
             "text": "This is a personal blog, as a tech note of 5G and LTE protocols.", 
             "title": "Welcome to 5G NR Blog"
+        }, 
+        {
+            "location": "/#5g-nr", 
+            "text": "NSA  SA", 
+            "title": "5G NR"
+        }, 
+        {
+            "location": "/#nsa", 
+            "text": "LTE and NR with EPC  LTE and NR with 5GC", 
+            "title": "NSA"
+        }, 
+        {
+            "location": "/#sa", 
+            "text": "Something news here....\nTo be add......", 
+            "title": "SA"
         }, 
         {
             "location": "/5g-nsa/5g_nsa_options/", 
