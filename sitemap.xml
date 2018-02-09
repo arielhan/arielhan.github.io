@@ -9,4 +9,20 @@
     </url>
     
 
+    
+        
+    <url>
+     <loc>/5g-nsa/5g_nsa_options/</loc>
+     <lastmod>2018-02-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/5g-nsa/5g_nsa_sequence/</loc>
+     <lastmod>2018-02-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
 </urlset>
